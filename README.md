@@ -1,17 +1,18 @@
-# leetcode_profile_stalker🚀
+leetcode_profile_stalker🚀
 
-Ever wanted to keep track of your LeetCode progress without constantly checking? Meet LeetCode Question Stalker — a Python script that keeps an eye on your LeetCode profile and notifies you the moment you solve a new problem!
+Need some motivation to level up your LeetCode game? Meet LeetCode Question Stalker — a Python-powered script that not only tracks your progress but also keeps you motivated by notifying you when your friends solve a new question!
 
 What It Does:
-	•	Instant Notifications: Get an email every time you solve a new question on LeetCode. No more refreshing pages or missing updates!
-	•	Always Watching: The script runs in the background and monitors your LeetCode profile continuously, so you never have to worry about missing a solved question.
-	•	Smart Tracking: It remembers the last question you solved and only alerts you when there’s a new victory to celebrate.
-	•	Email Alerts: Receive a stylish email with the details of your newly solved problem, including the title and link. Perfect for tracking your progress or sharing your wins with friends!
+	•	Instant Notifications: Get an email the moment your friend solves a new question on LeetCode. You don’t have to refresh your profile anymore – the script does it all!
+	•	Always Watching: Runs in the background and keeps an eye on your friend’s LeetCode profile, so you never miss their latest solved problem.
+	•	Motivation Booster: It remembers the last problem your friend solved and only sends you an email when they crack a new one. It’s like a friendly challenge!
+	•	Email Alerts: Receive real-time email notifications about the problem name, link, and date. Perfect for staying on top of your own progress and keeping the friendly competition going!
 
 Why It’s Awesome:
-	•	Time Saver: Instead of checking manually, let the script handle all the work for you.
-	•	Instant Updates: Receive real-time email notifications with no hassle.
-	•	Progress Monitoring: See your progress unfold without opening LeetCode every day.
+	•	Boost Your Motivation: The moment your friend solves a new problem, you get notified, sparking you to solve even more! 🏆
+	•	No More Refreshing: Forget about checking your friend’s profile constantly. Let the script do the work and notify you instantly.
+	•	Real-Time Updates: Get the latest solved question details sent straight to your inbox. Perfect for tracking your friend’s progress and staying motivated.
+
 
 Prerequisites:
   • Selenium: To scrape and interact with the LeetCode profile page.
