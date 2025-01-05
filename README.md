@@ -1,4 +1,4 @@
-# leetcode_profile_stalker
+# leetcode_profile_stalker🚀
 
 Ever wanted to keep track of your LeetCode progress without constantly checking? Meet LeetCode Question Stalker — a Python script that keeps an eye on your LeetCode profile and notifies you the moment you solve a new problem!
 
@@ -26,3 +26,13 @@ git clone https://github.com/your-username/leetcode_profile_stalker.git
 ```bash
 pip install -r requirements.txt
 ```
+3. Run the Script:
+```bash
+python3 script_name.py
+```
+4. Enter your LeetCode username and let the stalker do its thing!
+
+
+Notes:
+	•	You may need to adjust the email and SMTP settings in the script to match your email provider’s requirements.
+	•	Ensure that chromedriver is installed and accessible for Selenium to work correctly.
