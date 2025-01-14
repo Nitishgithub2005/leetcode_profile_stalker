@@ -90,7 +90,7 @@ def notify(url, date):
     PORT = 587
     EMAIL_ID1 = "example1@gmail.com"#sender mail id
     EMAIL_ID2 = "example2@gmail.com"#reciver mail id
-    PASSWORD = "your password" //create app password in ur google account
+    PASSWORD = "your password" #create app password in ur google account
     
     try:
         context = ssl.create_default_context(cafile=certifi.where())  # Use certifi's CA certificates
